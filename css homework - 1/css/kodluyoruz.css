@@ -1,0 +1,38 @@
+.red{
+    color: rgb(185, 21, 21);
+    width: 200px;
+    margin: auto;
+}
+
+.yellow{
+    color: rgb(128, 128, 18);
+    width: 300px;
+    margin: auto;
+}
+
+.h2-margin{
+    width: 250px;
+    margin: auto;
+    color: rgb(6, 226, 226);
+}
+
+.li-margin{
+    width: 500px;
+    margin: auto;
+    color: rgb(11, 88, 4);
+}
+
+.pictures{
+    width: 300px;
+    height: 300px;
+}
+
+.margin{
+    margin-inline-start: 1em;
+}
+.center {
+    float: right;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+  }
