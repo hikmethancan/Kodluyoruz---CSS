@@ -168,3 +168,13 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   margin: auto;
   width: 350px;
 }
+
+.voicesearch{
+  background: url(chrome://new-tab-page/icons/googlemic_clr_24px.svg) no-repeat center;
+  background-size: 20px 20px;
+  border: none;
+  border-radius: 2px;
+  display: inline;
+  text-align: right;
+  width: 500px;
+}
