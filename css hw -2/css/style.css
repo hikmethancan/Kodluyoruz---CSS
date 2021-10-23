@@ -19,6 +19,7 @@
     width: 100px;
     height: 100px;
     margin: auto;
+    padding-top: 250px;
 }
 
 .mg-pd{
@@ -46,6 +47,24 @@ h1{
     width: 500px;
     height: 20px;
     
+}
+
+.m-box{
+    border-radius: 5px;
+    border: 2px solid #a8a8a8;
+    background: #fbfff9;
+    width: 200px;
+    height: 20px;  
+    padding-left: 10px;  
+}
+
+.m-box2{
+    border-radius: 5px;
+    border: 2px solid #a8a8a8;
+    background: #fbfff9;
+    width: 100px;
+    height: 20px; 
+    padding-left: 10px;   
 }
 
 #clear{
